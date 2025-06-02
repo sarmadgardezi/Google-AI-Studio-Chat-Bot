@@ -1,0 +1,26 @@
+{
+  "gemini-pro": [
+    "What's the weather like in Tokyo?",
+    "Summarize the latest AI trends.",
+    "Explain quantum computing in simple terms.",
+    "Suggest a startup idea using AI.",
+    "Give me a Python tip.",
+    "Create a social media post about space.",
+    "What's the meaning of life?",
+    "Explain how a car engine works.",
+    "Describe a futuristic city.",
+    "Write a haiku about technology."
+  ],
+  "gemini-pro-vision": [
+    "Describe what's in this image.",
+    "Generate a caption for a product photo.",
+    "What's the sentiment of this image?",
+    "Create an image prompt.",
+    "Summarize the scene in this image.",
+    "Give creative uses of a photo.",
+    "How could this image be improved?",
+    "Detect objects in a scene.",
+    "What's the vibe of this photo?",
+    "Write a poem inspired by this image."
+  ]
+}
