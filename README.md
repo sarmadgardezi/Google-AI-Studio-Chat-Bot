@@ -1,6 +1,6 @@
 # Gemini Chat - A Feature-Rich AI Chat Interface
 
-![Gemini Chat Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_URL.png) <!-- Replace with an actual screenshot URL -->
+![Gemini Chat Screenshot](/screenshot.png) <!-- Replace with an actual screenshot URL -->
 
 This is a responsive and feature-rich chat application built with Next.js (App Router), Tailwind CSS, and powered by Google's Gemini AI models via API. It provides a clean, Google-inspired UI for interacting with AI, including features like chat history, model selection, daily usage limits, and Markdown rendering for AI responses.
 
@@ -132,8 +132,7 @@ console.log("Hello from Gemini!");
 
 *(Consider adding 1-2 screenshots of your application here)*
 
-*   Chat Interface: `[Link to Screenshot 1]`
-*   Code Block Rendering: `[Link to Screenshot 2]`
+*   Chat Interface: `/screenshot.png`
 
 ## 🤝 Contributing
 
